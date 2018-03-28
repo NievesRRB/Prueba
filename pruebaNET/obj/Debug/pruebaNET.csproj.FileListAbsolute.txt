@@ -1,0 +1,27 @@
+C:\Users\nrodriguezr\Desktop\Pruebas .net\pruebaNET\pruebaNET\obj\Debug\pruebaNET.csprojResolveAssemblyReference.cache
+C:\Users\nrodriguezr\Desktop\Pruebas .net\pruebaNET\pruebaNET\obj\Debug\pruebaNET.csproj.CoreCompileInputs.cache
+C:\Users\nrodriguezr\Desktop\Pruebas .net\pruebaNET\pruebaNET\bin\pruebaNET.dll.config
+C:\Users\nrodriguezr\Desktop\Pruebas .net\pruebaNET\pruebaNET\bin\pruebaNET.dll
+C:\Users\nrodriguezr\Desktop\Pruebas .net\pruebaNET\pruebaNET\bin\pruebaNET.pdb
+C:\Users\nrodriguezr\Desktop\Pruebas .net\pruebaNET\pruebaNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nrodriguezr\Desktop\Pruebas .net\pruebaNET\pruebaNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nrodriguezr\Desktop\Pruebas .net\pruebaNET\pruebaNET\obj\Debug\pruebaNET.dll
+C:\Users\nrodriguezr\Desktop\Pruebas .net\pruebaNET\pruebaNET\obj\Debug\pruebaNET.pdb
+C:\Users\nrodriguezr\Desktop\Pruebas_.net\pruebaNET\pruebaNET\bin\pruebaNET.dll.config
+C:\Users\nrodriguezr\Desktop\Pruebas_.net\pruebaNET\pruebaNET\bin\pruebaNET.dll
+C:\Users\nrodriguezr\Desktop\Pruebas_.net\pruebaNET\pruebaNET\bin\pruebaNET.pdb
+C:\Users\nrodriguezr\Desktop\Pruebas_.net\pruebaNET\pruebaNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nrodriguezr\Desktop\Pruebas_.net\pruebaNET\pruebaNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nrodriguezr\Desktop\Pruebas_.net\pruebaNET\pruebaNET\obj\Debug\pruebaNET.csprojResolveAssemblyReference.cache
+C:\Users\nrodriguezr\Desktop\Pruebas_.net\pruebaNET\pruebaNET\obj\Debug\pruebaNET.csproj.CoreCompileInputs.cache
+C:\Users\nrodriguezr\Desktop\Pruebas_.net\pruebaNET\pruebaNET\obj\Debug\pruebaNET.dll
+C:\Users\nrodriguezr\Desktop\Pruebas_.net\pruebaNET\pruebaNET\obj\Debug\pruebaNET.pdb
+C:\Pruebas_.net\pruebaNET\pruebaNET\bin\pruebaNET.dll.config
+C:\Pruebas_.net\pruebaNET\pruebaNET\bin\pruebaNET.dll
+C:\Pruebas_.net\pruebaNET\pruebaNET\bin\pruebaNET.pdb
+C:\Pruebas_.net\pruebaNET\pruebaNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Pruebas_.net\pruebaNET\pruebaNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Pruebas_.net\pruebaNET\pruebaNET\obj\Debug\pruebaNET.csprojResolveAssemblyReference.cache
+C:\Pruebas_.net\pruebaNET\pruebaNET\obj\Debug\pruebaNET.csproj.CoreCompileInputs.cache
+C:\Pruebas_.net\pruebaNET\pruebaNET\obj\Debug\pruebaNET.dll
+C:\Pruebas_.net\pruebaNET\pruebaNET\obj\Debug\pruebaNET.pdb

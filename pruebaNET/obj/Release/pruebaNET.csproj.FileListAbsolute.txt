@@ -1,0 +1,9 @@
+C:\Pruebas_.net\pruebaNET\pruebaNET\bin\pruebaNET.dll.config
+C:\Pruebas_.net\pruebaNET\pruebaNET\bin\pruebaNET.dll
+C:\Pruebas_.net\pruebaNET\pruebaNET\bin\pruebaNET.pdb
+C:\Pruebas_.net\pruebaNET\pruebaNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Pruebas_.net\pruebaNET\pruebaNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Pruebas_.net\pruebaNET\pruebaNET\obj\Release\pruebaNET.csproj.CoreCompileInputs.cache
+C:\Pruebas_.net\pruebaNET\pruebaNET\obj\Release\pruebaNET.dll
+C:\Pruebas_.net\pruebaNET\pruebaNET\obj\Release\pruebaNET.pdb
+C:\Pruebas_.net\pruebaNET\pruebaNET\obj\Release\pruebaNET.csprojResolveAssemblyReference.cache
